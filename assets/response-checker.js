@@ -80,6 +80,8 @@ function getMarkingSession(refresh = false) {
 }
 
 async function markOnServer(root, answer) {
+  const local = window.OlvMarkingAdapter?.local?.(root, answer);
+  if (local) return { result: local };
   for (const retry of [false, true]) {
     const session = await getMarkingSession(retry);
     if (!session?.csrf) return { unavailable: true };
