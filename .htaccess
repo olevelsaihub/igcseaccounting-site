@@ -1,0 +1,32 @@
+# Accounting: open-access public site (no sign-in; Bareera, 14 Oct 2026). Written by igcse_engine open-site.
+# Static student pages. The only PHP entry is the written-answer checker (POST /check -> marking/open-check.php, which
+# guards the request and calls the subject library marking/check.php), which reads its
+# answer bundle from the private folder named below (outside public_html). Every other PHP file and every dotfile is refused.
+SetEnv ACCOUNTING_PRIVATE_CONFIG /home/appsolevels/accounting-private/config.php
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+AddType text/javascript .mjs
+AddType application/wasm .wasm
+AddType text/vtt .vtt
+RewriteEngine On
+# BEGIN OLEVELS CRAWLER BLOCK
+# Reject declared bots and scripting clients (the site is open to students, not to indexers or scrapers).
+RewriteCond %{HTTP_USER_AGENT} ^$ [OR]
+RewriteCond %{HTTP_USER_AGENT} bot|crawl|spider|scrap|ChatGPT-User|Claude-User|Perplexity-User|anthropic-ai|cohere-ai|Google-Extended|meta-external|facebookexternalhit|BingPreview|ia_archiver|archive\.org|omgili|ImageSift|curl/|wget/|python[-/]|httpx/|aiohttp/|libwww-perl|Go-http-client|Java/|node-fetch|undici|axios/|PostmanRuntime|HeadlessChrome|PhantomJS|HTTrack|Selenium|Playwright|Puppeteer [NC]
+RewriteRule ^ - [F,END]
+# END OLEVELS CRAWLER BLOCK
+RewriteRule (^|/)\. - [F,END]
+RewriteCond %{REQUEST_METHOD} =POST
+RewriteRule ^check$ marking/open-check.php [END]
+RewriteRule \.php$ - [F,END]
+<IfModule mod_headers.c>
+    # BEGIN OLEVELS CRAWLER HEADERS
+    Header always set X-Robots-Tag "noindex, nofollow, nosnippet, noarchive, noimageindex"
+    Header always set X-Olevels-Crawler-Policy "no-crawl-v1"
+    # END OLEVELS CRAWLER HEADERS
+    Header always set X-Content-Type-Options "nosniff"
+    <FilesMatch "\.html$">
+        Header set Cache-Control "no-cache"
+    </FilesMatch>
+</IfModule>

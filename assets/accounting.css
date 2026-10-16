@@ -1,0 +1,49 @@
+/* Accounting 4AC1 additions on top of the shared course.css. */
+.stars{color:#c98a06;letter-spacing:1px;white-space:nowrap}
+.stars .off{color:#c9ced8}
+.type-meta{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:6px 0 14px;color:var(--muted);font-size:12px}
+.type-meta .tag{margin:0}
+.authored{border-left:4px solid var(--green);background:#f1f8f5;padding:12px 16px;border-radius:6px;margin:14px 0}
+.authored .authored-label{display:block;font-size:11px;font-weight:600;color:var(--green);text-transform:uppercase;letter-spacing:.4px;margin-bottom:6px}
+.inferred{font-size:12px;color:var(--muted);font-style:italic}
+.part-index{list-style:none;padding:0}
+.part-index>li{border:1px solid var(--line);border-radius:8px;background:white;padding:10px 14px;margin:8px 0}
+.part-index>li:target{border-color:var(--coral);box-shadow:0 0 0 3px #e4464f22}
+.part-index .rejected{color:var(--muted)}
+.practice-list{columns:2;column-gap:28px;padding-left:18px}
+.practice-list li{break-inside:avoid;margin-bottom:4px}
+@media(max-width:700px){.practice-list{columns:1}}
+.block-card{border:1px solid var(--line);border-radius:12px;background:white;padding:14px 18px;margin:14px 0}
+.block-card h3{margin:0 0 4px}
+.type-table td,.type-table th{vertical-align:top}
+.filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-end;margin:12px 0}
+.filters label{display:flex;flex-direction:column;font-size:12px;font-weight:600;gap:4px}
+.filters select,.filters input{font:inherit;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:white;max-width:280px}
+.clauses{margin:4px 0 8px;padding-left:20px}
+.clauses .level-2{margin-left:18px;list-style:circle}
+.statement{border-top:1px solid var(--line);padding:10px 0}
+.statement .code{font-weight:600;color:var(--navy)}
+.g9-model{border:1px solid var(--line);border-radius:10px;background:white;padding:12px 16px;margin:12px 0}
+.calc-check{font-family:ui-monospace,Menlo,monospace;font-size:12px}
+.plan-cumulative{color:var(--muted)}
+.honest-notes li{margin-bottom:6px}
+
+/* answer checking */
+.checker{margin:12px 0 4px;padding:12px 14px;border:1px solid var(--line,#dde1e8);border-radius:10px;background:#fbfcfe}
+.checker textarea,.checker .num-answer{width:100%;max-width:640px;font:inherit;padding:8px;border:1px solid #c9ced8;border-radius:8px}
+.checker .num-answer{max-width:220px}
+.mcq-option{display:block;margin:4px 0}
+.check-good{color:#1f7a3f;font-weight:600}.check-bad{color:#b72f3f;font-weight:600}
+.check-result ul{margin:6px 0 6px 18px}
+.hint{margin:10px 0 0}.hint summary{cursor:pointer;font-weight:600;color:#3b465a}.hint p{margin:6px 0 0}
+.grade-guide{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin:14px 0}
+.grade-guide form{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:flex-end}
+.grade-guide fieldset{border:0;padding:0;margin:0;flex-basis:100%}
+.grade-guide input[inputmode]{display:block;padding:8px 10px;border:1px solid #aeb9c8;border-radius:8px;font:inherit;width:120px}
+.grade-guide .gg-total{font-size:22px;margin:12px 0 0}
+/* Accounting figures mode: answer box keeps columns; model layout keeps line breaks */
+.figures-answer{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}
+.figures-model{background:#f6f8fa;padding:12px;border-radius:8px;overflow-x:auto}
+.model-table{border-collapse:collapse;margin:6px 0 10px;font-size:14px}
+.model-table th,.model-table td{border:1px solid #d6dddd;padding:4px 10px;text-align:left}
+.model-table td:last-child,.model-table td:nth-last-child(2){font-variant-numeric:tabular-nums}
