@@ -26,7 +26,12 @@ RewriteRule \.php$ - [F,END]
     Header always set X-Olevels-Crawler-Policy "no-crawl-v1"
     # END OLEVELS CRAWLER HEADERS
     Header always set X-Content-Type-Options "nosniff"
-    <FilesMatch "\.html$">
-        Header set Cache-Control "no-cache"
+    # HTML must never be held by Cloudflare or the browser, so a new deploy shows at once.
+    <FilesMatch "\.html?$">
+        Header always set Cache-Control "no-cache, no-store, must-revalidate, max-age=0"
+        Header always set CDN-Cache-Control "no-store"
+        Header always set Cloudflare-CDN-Cache-Control "no-store"
+        Header always set Pragma "no-cache"
+        Header always set Expires "0"
     </FilesMatch>
 </IfModule>
