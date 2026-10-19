@@ -78,7 +78,7 @@ try{
     if (nav.querySelector('[data-video-lessons]')) continue;
     const link = document.createElement('a');
     link.className = 'nav-primary'; link.dataset.videoLessons = '';
-    link.href = '/igcseaccounting/video-library/'; link.textContent = 'Video Lessons';
+    link.href = '/igcseaccounting/video-library/lessons.html'; link.textContent = 'Video Lessons';
     nav.insertBefore(link, nav.querySelector('.nav-dropdown'));
   }
 })();
