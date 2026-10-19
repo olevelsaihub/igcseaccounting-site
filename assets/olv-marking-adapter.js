@@ -142,9 +142,10 @@
       // words on this question's points caps the mark at a quarter.
       const skip = new Set(rules()._skip || []);
       const cw = [...new Set(words(answer).filter(w => w.length >= 2 && !skip.has(w)))];
-      const kwSet = new Set([...rule.kw.items.flatMap(it => it.kw.flat()), ...(rule.kw.pool || []).flat()]);
-      const listing = cw.length > 0 && cw.filter(w => [...kwSet].some(x => has(new Set([w]), x))).length / cw.length < 0.15;
-      if (listing || !cw.length) marks = Math.min(marks, Math.floor(max / 4));
+      const kwSet = new Set([...rule.kw.items.flatMap(it => it.kw.flat()), ...(rule.kw.pool || []).flat(),
+        ...rule.kw.items.flatMap(it => words(it.label || '').filter(w => w.length >= 2 && !skip.has(w)))]);
+      const listing = cw.length > 0 && cw.filter(w => [...kwSet].some(x => has(new Set([w]), x))).length / cw.length < (rule.kw.gate ?? 0.15);
+      if (listing) marks = Math.min(marks, Math.floor(max / 4));
       return { mode: 'keywords', marks: Math.min(marks, max), max, correct: marks >= max, items, listing, ideal: rule.ideal || rule.credit || '',
         levels: rule.levels || null, tip: rule.self_mark_tip || '' };
     }
