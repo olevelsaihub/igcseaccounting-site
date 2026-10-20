@@ -1,0 +1,11 @@
+Idea. You pay your gym today for next month. The gym now has your money, but it still owes you a month of training. Who owes whom? The gym owes you. At the year end, a business has four kinds of these amounts. Expenses owing and income received in advance are other payables: current liabilities. Expenses paid in advance and income still owing to us are other receivables: current assets.
+
+Method. Here is the method. Is it an expense or income? Is it owing, or in advance? Then ask: who owes whom? If the business owes money or a service, it is an other payable. If the business is owed, it is an other receivable. You can also read a ledger balance. A debit balance brought down is an asset: a prepaid expense, or income owing. A credit balance is a liability: an expense owing, or income received in advance. For example, a rent receivable account with a credit balance brought down of seven hundred and fifty dollars means rent was received in advance. The business owes the tenant, so it is a liability.
+
+Worked example. Here is a real question from June 2025. Which is a liability? One mark. A and B are about irrecoverable debts. A debt recovered is income. A debt written off is an expense. Neither is something we owe. C: the tenant has paid rent for future months, so the business owes the tenant the use of the property. That is an other payable, a liability. D is the opposite. The business paid in advance, so it is owed. That is an asset. So the answer is C. This explanation is by olevels dot com, not an official mark scheme.
+
+Common mistake. A common mistake is calling income received in advance an asset, because the cash is in the bank. But the business still owes the service, so it is a liability. Another is a definition with no timing. Always say it is at the end of the financial year.
+
+Your turn. Now you try. Leila's year ends on 31 March 2026. Classify each item as an other receivable or an other payable. Pause and decide.
+
+Answer. The insurance is prepaid, so the insurer owes Leila cover: a receivable. The commission is owed to her: a receivable. She owes the electricity: a payable. And she owes the tenant a month's use: a payable. Remember: expense or income, owing or in advance, then who owes whom. Now try the practice questions.

@@ -1,0 +1,11 @@
+Idea. Before you copy notes into your best book, you jot them down first. Businesses do the same. Every transaction is first written in a book of original entry, then posted to the ledger. There are four day books, for goods bought and sold on credit, and for returns of those goods. The cash book is for all money in and out of the bank or cash. The petty cash book is for small cash payments. The journal is for everything else.
+
+Method. Ask three questions in order. First: does money move now, through the bank or in cash? Then it goes in the cash book, or the petty cash book for a small cash expense. If no money moves, is it goods for resale bought or sold on credit, or returns of them? Then a day book. If neither, use the journal. Always write the full name of the book.
+
+Worked example. Here is a real question from January 2023. There are five transactions, and we must write the book of original entry for each. Five marks. A non-current asset bought on credit: no money moves, and it is not goods for resale, so the journal. A receipt by credit transfer: money arrives in the bank, so the cash book. A return to a credit supplier: the purchases returns day book. A sale on credit: the sales day book. A small cash payment to a window cleaner: the petty cash book. This explanation is by olevels dot com, not an official mark scheme.
+
+Common mistake. A common mistake is putting a non-current asset bought on credit in the purchases day book. It is not goods for resale, so it goes in the journal. Another is putting a cash sale in the sales day book. Money moved, so it goes in the cash book.
+
+Your turn. Now you try. Name the book of original entry for each of the four transactions. Pause here and work it out.
+
+Answer. One: money moves now, so the cash book. Two: a return of goods sold on credit, so the sales returns day book. Three: a van on credit is not goods for resale, so the journal. Four: a small cash payment from the float, so the petty cash book. Remember: does money move? Then the cash book. Goods on credit? A day book. Neither? The journal. Now try the practice questions.

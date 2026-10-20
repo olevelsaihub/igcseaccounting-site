@@ -35,15 +35,20 @@
     try { rulesCache = JSON.parse(document.getElementById('olv-rules')?.textContent || '{}'); } catch { rulesCache = {}; }
     return rulesCache;
   }
-  function numbers(text) {
+  function numbers(text, fractions) {
     const out = [];
     const re = /[-\u2212\u2013]?\d{1,3}(?:[ ,\u2009\u202F\u00A0]\d{3})+(?!\d)(?:\.\d+)?|[-\u2212\u2013]?\d+(?:\.\d+)?/gu;
     for (const m of String(text).matchAll(re)) {
       const raw = m[0].replace(/[ ,\u2009\u202F\u00A0]/gu, '').replace(/[\u2212\u2013]/gu, '-');
       const n = Number(raw);
-      if (Number.isFinite(n)) out.push(n);
+      if (Number.isFinite(n)) out.push([m.index, n]);
     }
-    return out;
+    // Opt-in per rule (maths, 4PM1): "95/2" also counts as 47.5, placed after its parts so it is the last number.
+    if (fractions) for (const m of String(text).matchAll(/([-\u2212\u2013]?\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)/gu)) {
+      const a = Number(m[1].replace(/[\u2212\u2013]/gu, '-')), b = Number(m[2]);
+      if (b) out.push([m.index + m[0].length - 0.5, a / b]);
+    }
+    return out.sort((x, y) => x[0] - y[0]).map(x => x[1]);
   }
   const close = (x, values, tol) => values.some(v => Math.abs(x - Number(v)) <= Math.max(tol, 1e-9) + 1e-9);
   const near = (x, values) => values.some(v => Math.abs(x - Number(v)) <= Math.max(Math.abs(Number(v)) * 0.002, 0.0005) + 1e-9);
@@ -70,6 +75,23 @@
   const has = (set, w) => set.has(w) || (w.length >= 6 && [...set].some(x => (Math.abs(x.length - w.length) <= 1 && dl1(x, w)) || (x.length >= 6 && x.slice(0, 6) === w.slice(0, 6))));
   const found = (set, kw) => (kw || []).some(alt => alt.filter(w => has(set, w)).length >= Math.max(1, Math.ceil(alt.length * 0.5)));
   const norm = t => String(t).replace(/[\s,'"`\u2018\u2019\u201C\u201D]/gu, '').toUpperCase().replace(/\.+$/, '');
+  // accept_text (Further Maths): a written form such as 'k=2' found in the answer, but never as part of a longer number
+  // ('K=2' does not match 'K=25' or 'K=-2'). When an item has accept_text it replaces accept_values.
+  // Line by line: norm() drops newlines, so 'k = 2' over '5n = 3' would read as 'K=25N=3'.
+  const textHit = (answer, forms) => String(answer).split(/\r?\n/).some(line => {
+    const got = norm(line);
+    return forms.some(f => {
+      const n = norm(f);
+      for (let i = n ? got.indexOf(n) : -1; i >= 0; i = got.indexOf(n, i + 1)) {
+        const after = got[i + n.length] || '';
+        // 'Y=2' is not 'y = 2x + 1': a digit form followed by one letter (a term like 2x) is not a match
+        const term = /\d$/.test(n) && /[A-Z]/i.test(after) && !/[A-Z]/i.test(got[i + n.length + 1] || '');
+        if (!/[0-9.\-]/.test(got[i - 1] || '') && !/[0-9.\/]/.test(after) && !term) return true;
+      }
+      return false;
+    });
+  });
+  const itemHit = (it, answer, nums) => it.accept_text ? textHit(answer, it.accept_text) : nums.some(n => near(n, it.accept_values || []));
 
   function check(rule, answer) {
     const max = Number(rule.max);
@@ -86,7 +108,7 @@
       const ans = rule.answer || {};
       let text = String(answer);
       if (ans.form === 'n:1') text = text.trim().replace(/:\s*1(?:\.0+)?\s*$/, '');
-      const nums = numbers(text);
+      const nums = numbers(text, rule.fractions);
       const last = nums.length ? nums[nums.length - 1] : null;
       if (last !== null && close(last, ans.values || [], Number(ans.tol || 0))) {
         const units = rule.unit_required || [];
@@ -96,7 +118,7 @@
       }
       let got = 0;
       const steps = (rule.partial || []).map(p => {
-        const hit = nums.some(n => near(n, p.accept_values || []));
+        const hit = itemHit(p, answer, nums);
         if (hit) got += Number(p.marks);
         return { label: p.label, found: hit };
       });
@@ -114,19 +136,19 @@
       return { mode: 'exact', marks: Math.min(marks, max - 1), max, correct: false, steps, working, why };
     }
     if (rule.mode === 'figures') {
-      const nums = numbers(answer);
+      const nums = numbers(answer, rule.fractions);
       const low = ' ' + String(answer).toLowerCase().replace(/[^a-z0-9]+/g, ' ') + ' ';
       let got = 0, own = 0;
       const items = (rule.items || []).map(it => {
         if (it.self_check) { own += Number(it.marks); return { label: it.label, marks: it.marks, found: null }; }
-        let hit = nums.some(n => near(n, it.accept_values || []));
+        let hit = itemHit(it, answer, nums);
         if (!hit) hit = (it.accept_words || []).some(w => low.includes(' ' + String(w).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim() + ' '));
         if (hit) got += Number(it.marks);
         return { label: it.label, marks: it.marks, found: hit };
       });
       got = Math.min(got, max - own);
       return { mode: 'figures', marks: got, max, self_marks: own, correct: got === max - own, items, ideal: rule.ideal || '', why,
-        note: 'Checked by figures and key words only: the place and side of each entry are not checked, so compare your layout with the model.' };
+        note: rules()._figures_note || 'Checked by figures and key words only: the layout and working are not checked, so compare yours with the model.' };
     }
     if (rule.mode === 'self' && rule.kw?.items?.length) {
       const set = new Set(words(answer));
@@ -206,7 +228,7 @@
       : r.marks ? 'Your answer makes some of the mark-scheme points. The missing ones are marked ✗ below.'
       : 'Your answer does not yet make the mark-scheme points. Compare it with the correct answer below.';
     if (r.mode === 'figures') return (r.correct ? 'Every checkable item was found.' : 'Some credited items are missing.')
-      + (r.self_marks ? ` ${r.self_marks} presentation mark${r.self_marks > 1 ? 's' : ''} (dates, details, labels) you judge yourself against the model.` : '');
+      + (r.self_marks ? ` ${r.self_marks} ` + (rules()._self_check || `mark${r.self_marks > 1 ? 's' : ''} for layout and presentation that you judge yourself against the model`) + '.' : '');
     return 'Mark your own answer: compare it with the model answer below and tick each point you made.' + (r.tip ? ' ' + r.tip : '');
   }
 
