@@ -1,0 +1,11 @@
+Idea۔ ایک business کو بہت سے credit customers سے پیسے لینے ہیں۔ تجربے سے وہ جانتا ہے کہ اس کا ایک چھوٹا حصہ شاید کبھی وصول نہ ہو۔ اس لیے وہ provision for irrecoverable debts رکھتا ہے: اس loss کا estimate۔ فرض کریں customers کے دس ہزار dollars باقی ہیں، اور business پانچ per cent کا rate استعمال کرتا ہے۔ Provision دس ہزار کا پانچ per cent ہے: پانچ سو dollars۔ ہر سال provision دوبارہ نکالی جاتی ہے۔ صرف تبدیلی income statement میں جاتی ہے۔ اگر یہ پانچ سو سے بڑھ کر چھ سو پچاس dollars ہو جائے، تو ایک سو پچاس کا اضافہ expense ہے۔
+
+Method۔ طریقہ یہ ہے۔ پہلے، جو debt write off ہونا ہے اسے trade receivables میں سے نکالیں۔ جو بچے اسے rate سے multiply کریں: یہ نئی provision ہے۔ پھر اس کا پرانی provision سے موازنہ کریں۔ آخر میں واضح بتائیں کہ تبدیلی کس طرف ہوئی۔ اگر نئی provision بڑی ہے تو یہ increase ہے، جو profit کم کرتا ہے۔ اگر چھوٹی ہے تو decrease ہے، جو profit میں جمع ہوتا ہے۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا real question ہے۔ ہمیں Shahid کی provision میں تبدیلی calculate کرنی ہے، اور واضح بتانا ہے کہ یہ increase ہے یا decrease۔ تین marks۔ Provision چار per cent ہے۔ پچھلے سال یہ ایک ہزار دو سو پانچ dollars تھی۔ Trade receivables اٹھائیس ہزار سات سو پچاس ہیں، مگر اس میں چار سو پچاس کا ایک debt شامل ہے جو کبھی ادا نہیں ہوگا۔ پہلا step: irrecoverable debt نکال دیں۔ اٹھائیس ہزار سات سو پچاس minus چار سو پچاس، اٹھائیس ہزار تین سو۔ دوسرا step: اٹھائیس ہزار تین سو کا چار per cent، ایک ہزار ایک سو بتیس ہے۔ یہ نئی provision ہے۔ تیسرا step: پرانی provision ایک ہزار دو سو پانچ تھی۔ نئی چھوٹی ہے، اس لیے provision تہتر dollars decrease ہوئی ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی write-off سے پہلے والے receivables استعمال کرنا ہے۔ اس سے ایک ہزار ایک سو پچاس آتا ہے، اور تبدیلی غلط نکلتی ہے۔ ایک اور غلطی: question تبدیلی مانگے اور نئی provision دے دینا، یا increase یا decrease کا لفظ چھوڑ دینا۔
+
+Your Turn۔ اب آپ کریں۔ Priya کی provision، trade receivables کا تین per cent ہے۔ تبدیلی calculate کریں اور بتائیں کہ کس طرف ہوئی۔ یہاں رک کر حل کریں۔
+
+Answer۔ چھیالیس ہزار minus ایک ہزار، پینتالیس ہزار۔ اس کا تین per cent، ایک ہزار تین سو پچاس ہے۔ یہ ایک ہزار دو سو سے بڑا ہے، اس لیے provision ایک سو پچاس dollars increase ہوئی ہے۔ یاد رکھیں: write-off نکالیں، rate لگائیں، پھر پرانی provision سے موازنہ کریں اور direction کا نام لیں۔ اب practice questions کریں۔

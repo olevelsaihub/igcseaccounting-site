@@ -1,0 +1,11 @@
+Idea۔ تصور کریں کہ ہر football referee مختلف rules استعمال کرے۔ کوئی بھی ایک match کا دوسرے سے موازنہ نہیں کر سکتا۔ Accountants بھی مشترکہ rules پر متفق ہیں، تاکہ accounts پر بھروسا ہو سکے اور ان کا موازنہ ہو سکے۔ ان rules کو accounting concepts کہتے ہیں۔ آپ کو چھ چاہییں، اور going concern بھی: accruals، business entity، consistency، materiality، money measurement، اور prudence۔
+
+Method۔ ہر ایک کا ایک key idea سیکھیں۔ Accruals: income اور expenses اسی period میں record کریں جس سے ان کا تعلق ہے۔ Business entity: business اپنے مالک سے الگ ہے۔ Consistency: ہر سال ایک ہی method استعمال کریں۔ Materiality: بہت چھوٹی items، جیسے stapler، کو سیدھا expense مانا جا سکتا ہے۔ Money measurement: صرف وہی record کریں جس کی money value ہو۔ Prudence: profit یا assets کو بڑھا کر نہ دکھائیں۔ Going concern: business چلتا رہے گا۔ Question میں statement سے key idea ڈھونڈیں، اسے ایک concept سے ملائیں، اور نام بالکل ٹھیک لکھیں۔ اگر description مانگی جائے، تو اسے اپنے مختصر جملے میں سمجھائیں۔
+
+Worked Example۔ یہ جون دو ہزار پچیس کا اصل question ہے۔ یہ تین descriptions دیتا ہے، اور ہر ایک کے لیے ہمیں accounting concept کا نام لکھنا ہے۔ تین marks۔ Row ایک کہتی ہے کہ کم قیمت کی items کو الگ record کرنے کی ضرورت نہیں۔ Key idea ہے: اتنی چھوٹی کہ فرق نہیں پڑتا۔ یہ materiality ہے۔ Row دو کہتی ہے کہ صرف وہی items record ہوتی ہیں جنہیں money میں ناپا جا سکے۔ Key idea ہے: money value۔ یہ money measurement ہے۔ Row تین کہتی ہے کہ business اپنے مالک سے بالکل الگ ہے۔ یہ business entity ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی business entity اور going concern کو ملانا ہے۔ Business entity کا مطلب ہے کہ مالک کو الگ رکھا جاتا ہے۔ Going concern کا مطلب ہے کہ business چلتا رہتا ہے۔ ایک اور غلطی، concept کو اسی کے نام سے بیان کرنا ہے، جیسے consistency means being consistent۔ بتائیں کہ وہ اصل میں کرتا کیا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ تین statements پڑھیں، اور ہر ایک کے لیے accounting concept کا نام لکھیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ ایک: holiday کو shop کی books سے باہر رکھا گیا، تو مالک الگ ہے۔ یہ business entity ہے۔ دو: ہر سال ایک ہی method، consistency ہے۔ تین: محتاط figure prudence ہے۔ یاد رکھیں: key idea ڈھونڈیں، اسے ایک concept سے ملائیں، اور اس کا صحیح نام لکھیں۔ اب practice questions کریں۔

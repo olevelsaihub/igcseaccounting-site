@@ -1,0 +1,11 @@
+Idea۔ اپنی best copy میں نوٹس لکھنے سے پہلے آپ انہیں پہلے rough لکھتے ہیں۔ businesses بھی یہی کرتی ہیں۔ ہر transaction پہلے book of original entry میں لکھی جاتی ہے، پھر ledger میں post ہوتی ہے۔ چار day books ہیں، جو credit پر خریدے اور بیچے گئے goods کے لیے ہیں، اور ان goods کی returns کے لیے۔ cash book، bank یا cash میں آنے جانے والی تمام رقم کے لیے ہے۔ petty cash book چھوٹی cash payments کے لیے ہے۔ باقی ہر چیز journal میں جاتی ہے۔
+
+Method۔ ترتیب سے تین سوال پوچھیں۔ پہلا: کیا رقم ابھی bank یا cash کے ذریعے move ہو رہی ہے؟ تو یہ cash book میں جائے گی، اور چھوٹے cash expense کے لیے petty cash book میں۔ اگر رقم move نہیں ہو رہی، تو کیا resale کے goods credit پر خریدے یا بیچے گئے ہیں، یا ان کی returns ہیں؟ تو day book۔ اگر دونوں نہیں، تو journal۔ book کا پورا نام لکھیں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس کا real question ہے۔ پانچ transactions ہیں، اور ہر ایک کی book of original entry لکھنی ہے۔ پانچ marks۔ credit پر خریدا گیا non-current asset: رقم move نہیں ہوتی، اور یہ resale کے goods بھی نہیں، اس لیے journal۔ credit transfer سے receipt: رقم bank میں آئی، اس لیے cash book۔ credit supplier کو return: purchases returns day book۔ credit پر sale: sales day book۔ window cleaner کو چھوٹی cash payment: petty cash book۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے کہ credit پر خریدا گیا non-current asset، purchases day book میں لکھ دیں۔ یہ resale کے goods نہیں ہے، اس لیے یہ journal میں جاتا ہے۔ ایک اور غلطی: cash sale کو sales day book میں لکھنا۔ رقم move ہوئی ہے، اس لیے یہ cash book میں جائے گی۔
+
+Your Turn۔ اب آپ کریں۔ چاروں transactions میں سے ہر ایک کی book of original entry کا نام لکھیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ ایک: رقم ابھی move ہو رہی ہے، اس لیے cash book۔ دو: credit پر بیچے گئے goods کی return، اس لیے sales returns day book۔ تین: credit پر van، resale کے goods نہیں ہے، اس لیے journal۔ چار: float سے چھوٹی cash payment، اس لیے petty cash book۔ یاد رکھیں: کیا رقم move ہو رہی ہے؟ تو cash book۔ credit پر goods؟ تو day book۔ دونوں نہیں؟ تو journal۔ اب practice questions کریں۔

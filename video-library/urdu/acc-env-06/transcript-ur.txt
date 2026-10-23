@@ -1,0 +1,11 @@
+Idea۔ آپ کے فون پر passcode ہے، اور آپ کی photos شاید cloud پر backup ہوں۔ Business بھی اپنے computer پر accounting records کو اسی طرح کے طریقوں سے محفوظ رکھتا ہے۔ Data دو بڑے طریقوں سے خطرے میں ہوتا ہے۔ وہ ضائع یا خراب ہو سکتا ہے۔ یا ایسے لوگ اسے دیکھ یا بدل سکتے ہیں جنہیں رسائی نہیں ہونی چاہیے۔ اسے unauthorised access کہتے ہیں۔
+
+Method۔ Step ایک۔ طے کریں کہ question کس بارے میں ہے: access روکنا، loss روکنا، یا دونوں۔ Step دو۔ Access روکنے کے لیے passwords، firewall، anti-virus software، encryption، یا locked rooms استعمال کریں۔ Loss روکنے کے لیے regular backups لیں اور copies off-site یا cloud میں رکھیں۔ Step تین۔ ہر mark کے لیے ایک مختلف measure چند الفاظ میں لکھیں۔ State question میں لمبی وضاحت کی ضرورت نہیں۔
+
+Worked Example۔ یہ نومبر دو ہزار پچیس، Paper One کا اصل question ہے۔ State three ways that data may be protected when using a computerised accounting system۔ تین marks۔ پہلا، باہر والوں کو internet سے اندر آنے سے روکیں۔ Firewall install کریں۔ دوسرا، نقصان دہ programs کو data خراب کرنے یا چرانے سے روکیں۔ Anti-virus software استعمال کریں۔ تیسرا، غیر مجاز لوگوں کو system استعمال کرنے سے روکیں۔ اسے strong passwords سے محفوظ کریں۔ Check: تین مختلف ideas۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی ایک ہی method کو مختلف الفاظ میں دو بار لکھنا ہے۔ Passwords اور secret login codes ایک ہی idea ہیں، اس لیے ایک mark ملتا ہے۔ ایک اور غلطی مبہم بات لکھنا ہے، جیسے keep it safe، یا computers کا کوئی benefit دینا۔ مخصوص measure کا نام لکھیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Lena ایک travel agency چلاتی ہے۔ اس کے مسائل پڑھیں، پھر ہر risk سے اس کے data کو بچانے کا ایک طریقہ State کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Staff والا مسئلہ access کا ہے، تو accounts کو strong password سے محفوظ کریں۔ Hard drive والا مسئلہ loss کا ہے، تو data کا regular backup لیں اور ایک copy off-site یا cloud میں رکھیں۔ یاد رکھیں: risk طے کریں، مطابقت رکھنے والا measure چنیں، اور ہر mark کے لیے ایک مختلف idea دیں۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ credit پر بیچنے والی shop ایک دن میں درجنوں sales کر سکتی ہے۔ ہر بار ledger کھولنے کے بجائے، وہ انہیں day book میں list کرتی ہے، اور total ایک ہی بار post کرتی ہے۔ چار books ہیں: sales، purchases، sales returns، اور purchases returns۔ ان میں صرف credit پر خریدے یا بیچے گئے goods اور ان کی returns لکھی جاتی ہیں۔ cash sales اور cash purchases، cash book میں جاتی ہیں۔
+
+Method۔ Step ایک: ہر book کے لیے credit items چنیں۔ Step دو: list price میں سے trade discount minus کریں۔ صرف net amount لکھی جاتی ہے۔ return کے لیے اصل batch کا trade discount استعمال کریں۔ ہر line پر date، نام اور net amount لکھیں۔ مہینے کے آخر میں book کا total نکالیں، date کے ساتھ۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا real question ہے۔ George تین suppliers سے goods خریدتا ہے اور کچھ White کو واپس کرتا ہے۔ ہمیں purchases day book اور purchases returns day book تیار کرنی ہیں۔ پانچ marks۔ data غور سے پڑھیں۔ White اور Green trade discount دیتے ہیں، مگر Black نہیں۔ اٹھائیس تاریخ کی return، White کے دس اپریل والے batch کی ہے۔ دس اپریل، White: ایک ہزار dollars minus بیس per cent۔ یعنی ایک ہزار minus دو سو، آٹھ سو dollars۔ سترہ اپریل، Black: سات سو پچاس، trade discount کے بغیر۔ بائیس اپریل، Green: تین ہزار minus دس per cent، دو ہزار سات سو۔ مہینے کا total: آٹھ سو plus سات سو پچاس plus دو ہزار سات سو، چار ہزار دو سو پچاس ہے۔ اٹھائیس تاریخ کی return دس اپریل کے batch سے آئی، اس لیے اس پر بھی بیس per cent discount ملتا ہے۔ دو سو minus چالیس، ایک سو ساٹھ، اور یہی total بھی ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے کہ return کو list price پر لکھ دیں۔ اصل goods والا ہی trade discount minus کریں۔ ایک اور غلطی: cash sales یا cash purchases کو day book میں لکھنا۔ وہ cash book میں جاتی ہیں۔
+
+Your Turn۔ اب آپ کریں۔ مئی کے لیے Lola کی transactions پڑھیں، پھر sales day book اور sales returns day book تیار کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ cash sale باہر رہتی ہے۔ Pak: چھ سو minus پچیس per cent، چار سو پچاس۔ Rui: چار سو۔ total آٹھ سو پچاس ہے۔ Pak کی return پر بھی وہی پچیس per cent discount لگتا ہے۔ اسی minus بیس، ساٹھ، اور یہی total بھی ہے۔ یاد رکھیں: صرف credit items، trade discount کے بعد net، پھر date، نام، amount اور total۔ اب practice questions کریں۔

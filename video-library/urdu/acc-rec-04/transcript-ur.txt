@@ -1,0 +1,11 @@
+Idea۔ جب آپ دو dollars کی تین notebooks خریدتے ہیں، تو bill چھ dollars کا بنتا ہے۔ Business invoice بھی اسی طرح کام کرتا ہے، ایک ایک line کر کے۔ Invoice میں seller، customer، date اور invoice number ہوتا ہے۔ پھر line totals، ایک subtotal، trade discount، اور وہ total آتا ہے جو customer پر واجب ہے۔
+
+Method۔ پہلا step: ہر line total، quantity ضرب unit price ہے۔ دوسرا step: subtotal کے لیے lines جمع کریں۔ تیسرا step: trade discount، subtotal کا percentage ہے۔ چوتھا step: total کے لیے اسے منہا کریں۔ Cash discount صرف ایک term ہے، جیسے تیس دن کے اندر payment پر پانچ per cent۔ اسے منہا نہ کریں، کیونکہ customer نے ابھی جلدی payment نہیں کی۔ Credit note بھی اسی انداز میں بنتا ہے۔ یہ sale والی ہی trade discount استعمال کرتا ہے، اس لیے customer کو net amount credit ہوتی ہے۔
+
+Worked Example۔ یہ جون دو ہزار پچیس کا real question ہے۔ ہمیں invoice وہاں مکمل کرنا ہے جہاں دکھایا گیا ہے۔ پانچ marks۔ Novura Trading، All Media کو دو قسم کی cable بیچتی ہے۔ ہمیں ایک سے پانچ تک خالی جگہیں بھرنی ہیں: دو line totals، subtotal، trade discount، اور total۔ نیچے دی گئی terms نوٹ کریں۔ Line ایک: three core cable کی ایک سو پچاس، پانچ dollars کے حساب سے، سات سو پچاس dollars۔ Line دو: چار سو، دو dollars بیس cents کے حساب سے، آٹھ سو اسی۔ Lines جمع کریں۔ سات سو پچاس plus آٹھ سو اسی، ایک ہزار چھ سو تیس: یہ subtotal ہے۔ Trade discount، subtotal کا بیس per cent ہے: تین سو چھبیس۔ اسے منہا کریں: total ایک ہزار تین سو چار dollars ہے۔ تیس دن کے لیے پانچ per cent cash discount کی term ہے، اس لیے اسے منہا نہیں کیا جاتا۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی cash discount بھی منہا کر دینا ہے۔ Total ایک ہزار تین سو چار ہی رہتا ہے۔ ایک اور غلطی trade discount صرف ایک line پر نکالنا ہے۔ Subtotal استعمال کریں۔
+
+Your Turn۔ اب آپ کریں۔ Hill Stationers، Kemi Limited کو pens اور paper بیچتا ہے۔ ہر line total، subtotal، trade discount اور total نکالیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ چالیس ضرب چھ dollars پچاس cents، دو سو ساٹھ۔ پچیس ضرب چار، ایک سو۔ Subtotal تین سو ساٹھ ہے۔ دس per cent چھتیس ہیں، اس لیے total تین سو چوبیس dollars ہے۔ دو per cent ایک term ہی رہتا ہے۔ یاد رکھیں: line totals، subtotal، trade discount منہا، پھر total۔ Cash discount term ہی رہتی ہے۔ اب practice questions کریں۔

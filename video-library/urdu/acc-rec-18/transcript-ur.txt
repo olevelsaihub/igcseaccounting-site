@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ اپنے پچاس dollars سے lemonade stall شروع کرتے ہیں۔ اب stall آپ کی پچاس کی مقروض ہے۔ منافع ہو تو وہ آپ کی مزید مقروض ہوتی ہے۔ آپ اپنے لیے رقم نکالیں تو کم۔ Equity account یہی حساب رکھتا ہے۔ یہ ایک equity account ہے۔ Credit side پر: opening capital، owner کا ڈالا ہوا اضافی capital، اور سال کا profit۔ یہ بڑھاتے ہیں کہ business، owner کی کتنی مقروض ہے۔ Debit side پر: drawings، یعنی owner کی لی ہوئی cash یا goods، اور سال کا loss، اگر ہو۔ یہ کم کرتے ہیں کہ business، owner کی کتنی مقروض ہے۔
+
+Method۔ Step ایک: یاد رکھیں کہ equity میں صرف چار items جاتی ہیں۔ ڈالا گیا capital اور سال کا profit، credits ہیں۔ Drawings اور سال کا loss، debits ہیں۔ Step دو: ہر وہ چیز کاٹ دیں جو صرف income statement کے اندر ایک line ہو، جیسے gross profit، یا disposal پر profit یا loss۔ کیوں؟ سال کا profit، income statement کے آخر کی final figure ہے۔ Gross profit نیچے کے راستے میں آدھے پر ہے، expenses سے پہلے۔ صرف آخری line equity میں جاتی ہے۔
+
+Worked Example۔ یہ نومبر دو ہزار پچیس کا real question ہے۔ Equity account میں کیا دکھایا جاتا ہے؟ ایک mark۔ Option A، gross profit، income statement میں expenses سے پہلے آدھے راستے کی ایک line ہے۔ یہ equity میں transfer نہیں ہوتی۔ Options B اور D، disposal پر loss یا profit، income statement میں ایک expense اور ایک income ہیں۔ یہ equity تک صرف سال کے profit کا حصہ بن کر پہنچتے ہیں۔ Option C، سال کا profit، income statement کا final نتیجہ ہے، اور اسے owner کے equity account میں credit کیا جاتا ہے۔ جواب C ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے کہ gross profit چن لیں۔ یہ income statement میں صرف آدھے راستے پر ہے۔ ایک اور غلطی: drawings یا loss کو credit side پر لکھنا۔ یہ equity کو کم کرتے ہیں، اس لیے debits ہیں۔
+
+Your Turn۔ اب آپ کریں۔ Priya ایک gift shop کی مالک ہے۔ ہر item کے لیے طے کریں: debit، credit، یا اس کے equity account میں بالکل نہیں۔ رک کر طے کریں۔
+
+Answer۔ اضافی capital، credit side پر جاتا ہے۔ جو goods اس نے لیے وہ drawings ہیں، اور سال کے loss کے ساتھ، debit side پر جاتے ہیں۔ Gross profit equity میں بالکل نہیں جاتا۔ یاد رکھیں: capital اور سال کا profit credit، drawings اور loss debit، اور باقی سب income statement میں رہنے دیں۔ اب practice questions کریں۔

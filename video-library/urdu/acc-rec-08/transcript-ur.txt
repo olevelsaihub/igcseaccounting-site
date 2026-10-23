@@ -1,0 +1,11 @@
+Idea۔ بہت سی businesses چھوٹی payments کے لیے، جیسے stamps یا taxi کا کرایہ، ایک box میں تھوڑی cash رکھتی ہیں۔ ہر payment کا voucher ہوتا ہے اور وہ petty cash book میں لکھی جاتی ہے۔ petty cash book کا balance، box میں گنی گئی cash کے برابر ہونا چاہیے۔ یہاں book میں چھیالیس dollars ہیں، مگر box میں صرف چالیس۔ چھ dollars غائب ہیں۔ کیوں؟
+
+Method۔ پہلے recording error سوچیں۔ کوئی voucher غلط amount سے لکھا گیا، یا لکھا ہی نہیں گیا۔ یا voucher گم ہو گیا، اس لیے payment record نہیں ہوئی۔ دوسرے، loss یا theft سوچیں۔ cash گر گئی ہو، گم ہو گئی ہو، یا box سے نکال لی گئی ہو۔ تیسرے، timing سوچیں۔ main cashier کی طرف سے top-up book میں ہو مگر ابھی box میں نہ پہنچا ہو۔ یا voucher لکھنے سے پہلے cash دے دی گئی ہو۔ ہر وجہ کو الگ واضح جملے میں لکھیں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس، Paper ایک کا real question ہے۔ State کریں کہ petty cash book کا balance، petty cash box کی رقم سے مختلف کیوں ہو سکتا ہے، دو وجوہات۔ دو marks۔ وجہ ایک، recording کا مسئلہ۔ ایک petty cash voucher گم ہو گیا ہے، اس لیے ایک payment book میں لکھی ہی نہیں گئی۔ وجہ دو، loss۔ petty cash box سے cash چوری ہو گئی ہے۔ check کریں: ایک recording کی وجہ اور ایک loss کی وجہ، یعنی دو الگ ideas۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے کہ ایک ہی وجہ کے دو versions دے دیں۔ book میں error، اور book میں غلط entry، ایک ہی idea ہے۔ ایک اور غلطی: petty cash book رکھنے کا فائدہ بتانا، یا صرف mistake لکھ دینا۔ وجہ بتائیں، اور یہ بھی کہ وہ کہاں ہوئی۔
+
+Your Turn۔ اب آپ کریں۔ Zara کی petty cash book میں پینسٹھ dollars ہیں، مگر box میں باون۔ فرق نکالیں اور تین الگ وجوہات دیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ پینسٹھ minus باون، تیرہ۔ یعنی box سے تیرہ dollars غائب ہیں۔ اب ہر group سے ایک وجہ۔ تیرہ dollars کا taxi voucher کبھی لکھا ہی نہیں گیا۔ cash گم یا چوری ہو گئی۔ یا voucher لکھنے سے پہلے cash دے دی گئی۔ یاد رکھیں: جب book اور box میں فرق ہو تو recording، loss اور timing سوچیں، اور ہر وجہ الگ جملے میں لکھیں۔ اب practice questions کریں۔

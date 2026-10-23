@@ -1,0 +1,11 @@
+Idea۔ ایک local café کے بارے میں سوچیں۔ مالک، staff، وہ bank جس نے قرض دیا، اور وہ supplier جو دودھ پہنچاتا ہے، سب کو فکر ہوتی ہے کہ café کیسا چل رہا ہے۔ جس کی بھی اس میں دلچسپی ہو کہ business کیسا چل رہا ہے، وہ stakeholder ہے۔ Internal stakeholders اس کے اندر ہوتے ہیں: مالک، managers اور employees۔ External stakeholders باہر ہوتے ہیں، جیسے customers، suppliers اور banks۔
+
+Method۔ ہر stakeholder accounts اس لیے پڑھتا ہے کہ فیصلہ کر سکے۔ تو پوچھیں: اس گروپ کو کیا جاننا ہے؟ مالک: کیا profit ہو رہا ہے؟ Supplier: کیا ہمیں payment ملے گی؟ Bank: کیا قرض واپس ہو سکتا ہے؟ Employee پوچھتا ہے: کیا میری job محفوظ ہے؟ Customer پوچھتا ہے: کیا supplies جاری رہیں گی؟ حکومت پوچھتی ہے: profit پر کتنا tax بنتا ہے؟ واضح رہیں۔ To see how the business is doing بہت مبہم ہے، اس پر mark نہیں ملتا۔ اور ہر point کے لیے مختلف stakeholder لیں۔
+
+Worked Example۔ یہ جون دو ہزار انیس کا اصل question ہے۔ یہ دو stakeholders اور ان کی interests مانگتا ہے۔ Employees پہلے ہی مثال کے طور پر دیے گئے ہیں۔ چار marks۔ ہمیں employees کو دہرانا نہیں ہے۔ Supplier چنیں۔ وہ business کو مال credit پر بیچتا ہے، اس لیے وہ جاننا چاہتا ہے کہ business اپنا واجب ادا کر سکتا ہے یا نہیں۔ اگلا، وہ bank جس نے قرض دیا۔ وہ جاننا چاہتا ہے کہ business قرض اور interest وقت پر واپس کر سکتا ہے یا نہیں۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی question میں دی گئی مثال کو دہرانا ہے۔ Employees پہلے دیے گئے تھے، اس لیے ان پر کوئی mark نہیں۔ ایک اور غلطی مبہم interest ہے، جیسے to see how the business is doing۔ بالکل بتائیں کہ وہ کیا جاننا چاہتے ہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Zara ایک gym کی مالک ہے۔ دو external stakeholders State کریں اور gym کے financial statements میں ہر ایک کی interest بتائیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ External کا مطلب business سے باہر۔ جس bank نے Zara کو قرض دیا، وہ جاننا چاہتا ہے کہ قرض اور interest واپس ہو سکتے ہیں یا نہیں۔ Equipment کا supplier جاننا چاہتا ہے کہ اسے payment ملے گی یا نہیں۔ Customers، یہ پوچھتے ہوئے کہ gym کھلا رہے گا یا نہیں، بھی اچھا جواب ہے۔ یاد رکھیں: stakeholder کا نام لیں، سوچیں وہ کون سا فیصلہ کرتا ہے، اور مخصوص interest دیں۔ اب practice questions کریں۔

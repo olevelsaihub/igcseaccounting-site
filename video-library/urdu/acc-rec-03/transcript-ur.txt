@@ -1,0 +1,11 @@
+Idea۔ ایک café ہر ہفتے دودھ کے سو cartons خریدتا ہے۔ اس کا supplier اسے اس shopper سے کم قیمت دیتا ہے جو ایک carton خریدتا ہے، اور جلدی payment کرنے پر تھوڑی اور چھوٹ بھی۔ پہلی trade discount ہے: trade اور bulk buyers کے لیے list price پر چھوٹ۔ ایک ہزار dollars پر بیس per cent چھوٹ کا مطلب ہے کہ customer پر آٹھ سو واجب ہیں۔ Books میں صرف یہی net amount جاتی ہے۔ دوسری cash discount ہے: طے شدہ مدت کے اندر payment پر چھوٹ، جیسے تیس دن کے اندر پانچ per cent۔ اس کا نوٹوں اور سکوں میں payment سے کوئی تعلق نہیں۔
+
+Method۔ پہلا step: دیکھیں کہ question کون سی discount بتاتا ہے۔ Trade discount کا تعلق orders کے سائز اور وفاداری سے ہے۔ Cash discount کا تعلق payment کے وقت سے ہے۔ Trade discount سے بڑے orders، وفادار customers اور زیادہ sales آتی ہیں۔ Cash discount سے cash جلد آتی ہے، اور debt کے کبھی ادا نہ ہونے کا risk کم ہوتا ہے۔ ہر benefit ایک الگ مختصر point میں لکھیں۔
+
+Worked Example۔ یہ جون دو ہزار پچیس کا real question ہے۔ State کریں کہ trade discount دینے کے business کو دو benefits کیا ہیں۔ دو marks۔ Trade discount trade اور bulk buyers کے لیے ہے۔ پہلا benefit: بڑے orders پر کم قیمت customers کو زیادہ مقدار میں خریدنے پر آمادہ کرتی ہے۔ دوسرا benefit: اچھی قیمت customers کو وفادار رکھتی ہے، اس لیے وہ دوبارہ orders کے ساتھ آتے ہیں۔ یہ دو مختلف ideas ہیں، اس لیے دو marks۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی trade discount والے question میں cash discount کی reason دینا ہے۔ جلدی payment کرنا cash discount کی بات ہے۔ ایک اور غلطی یہ سمجھنا ہے کہ cash discount کا مطلب نوٹوں اور سکوں میں payment ہے۔ اس کا مطلب ہے مدت کے اندر payment کرنا۔
+
+Your Turn۔ اب آپ کریں۔ Bright Paints builders کو credit پر بیچتا ہے، اور چودہ دن کے اندر payment پر تین per cent cash discount دیتا ہے۔ State کریں کہ Bright Paints کو اس کے دو benefits کیا ہیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ یہ cash discount ہے، اس لیے وقت کے بارے میں سوچیں۔ پہلا benefit: customers جلد payment کرتے ہیں، اس لیے Bright Paints کے پاس business چلانے کے لیے زیادہ cash ہوتی ہے۔ دوسرا benefit: debts جلد clear ہو جاتے ہیں، اس لیے اس بات کا risk کم ہوتا ہے کہ کوئی customer کبھی ادا ہی نہ کرے۔ یعنی irrecoverable debts کم ہوتے ہیں۔ یاد رکھیں: دیکھیں کہ کون سی discount بتائی گئی ہے، bulk یا timing کے بارے میں سوچیں، اور ہر mark کے لیے ایک مختلف benefit دیں۔ اب practice questions کریں۔

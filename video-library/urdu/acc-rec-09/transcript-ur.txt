@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ کے گھر والے آپ کو ہر ہفتے lunch کے لیے بیس dollars دیتے ہیں۔ جمعہ تک آپ پندرہ خرچ کر چکے ہیں، پانچ بچے ہیں۔ اگلا ہفتہ پھر بیس سے شروع کرنے کے لیے وہ آپ کو پندرہ دیتے ہیں، یعنی بالکل جتنا آپ نے خرچ کیا۔ petty cash بھی ایسے ہی کام کرتی ہے۔ اسے imprest system کہتے ہیں۔ petty cashier ہر period ایک مقررہ رقم سے شروع کرتا ہے، یعنی float یا imprest۔ آخر میں float کو بحال کیا جاتا ہے، بالکل اتنی رقم واپس دے کر جتنی خرچ ہوئی۔
+
+Method۔ Step ایک: خرچ ہونے والی رقم نکالیں۔ یا payments جمع کریں، یا float میں سے بچی ہوئی cash minus کریں۔ یہی رقم top-up ہے۔ Step دو: double entry۔ petty cash کو رقم ملتی ہے، اس لیے petty cash debit کریں۔ bank رقم دیتا ہے، اس لیے bank credit کریں۔ یعنی top-up، main cash book کی payments side پر ہے۔ top-up کے بعد petty cash پھر پورے float پر آ جاتی ہے، اگلے period کے لیے تیار۔
+
+Worked Example۔ یہ نومبر دو ہزار پچیس کا real question ہے۔ float دو سو پچاس dollars ہے، اور ایک سو اسی dollars خرچ ہوئے۔ کون سی رقم float کو بحال کرتی ہے؟ ایک mark۔ چار options یہ ہیں: ستر، ایک سو اسی، دو سو پچاس، اور چار سو تیس dollars۔ بچی ہوئی cash، دو سو پچاس minus ایک سو اسی، ستر ہے۔ دو سو پچاس پر واپس جانے کے لیے ستر کو مزید ایک سو اسی چاہییں۔ یہی خرچ ہونے والی رقم ہے۔ تو جواب B ہے۔ ستر بچی ہوئی cash ہے۔ دو سو پچاس خود float ہے۔ چار سو تیس غلطی سے خرچ کو float میں جمع کرتا ہے۔ Double entry: ایک سو اسی petty cash میں debit ہوتے ہیں، اور main cash book کے bank column میں credit۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے کہ بچی ہوئی cash کو top-up بنا دیں۔ top-up خرچ ہونے والی رقم ہے، بچی ہوئی نہیں۔ ایک اور غلطی: entry الٹ کر دینا۔ petty cash کو رقم ملتی ہے، اس لیے petty cash debit ہوتا ہے اور bank credit۔
+
+Your Turn۔ اب آپ کریں۔ Hana petty cash float رکھتی ہے، اور جون کے آخر میں کچھ cash بچی ہے۔ دونوں parts حل کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Hana نے تین سو minus چونسٹھ، دو سو چھتیس dollars خرچ کیے۔ تو top-up دو سو چھتیس ہے۔ check کریں: چونسٹھ plus دو سو چھتیس، تین سو۔ part b کے لیے، petty cash میں دو سو چھتیس debit کریں، اور bank میں دو سو چھتیس credit، main cash book کی payments side پر۔ یاد رکھیں: خرچ ہونے والی رقم نکالیں، بالکل اتنا top-up کریں، petty cash debit اور bank credit۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ آپ اپنے خرچ کا note رکھتے ہیں، مگر آپ کی banking app مختلف balance دکھاتی ہے۔ شاید کوئی payment clear نہیں ہوئی، یا bank نے وہ fee لی جو آپ بھول گئے۔ Business کو بھی یہی مسئلہ ہوتا ہے۔ Bank reconciliation statement وضاحت کرتا ہے کہ ایک ہی date پر cash book کا balance، bank statement کے balance سے مختلف کیوں ہے۔ یہ business تیار کرتا ہے، bank نہیں۔ اور یہ ledger account نہیں ہے، اس لیے double entry کا حصہ نہیں۔
+
+Method۔ Benefits سیکھیں۔ یہ cash book کو up to date کرتا ہے۔ یہ errors ڈھونڈتا ہے، چاہے business کی ہوں یا bank کی۔ یہ timing differences اور بہت پرانے cheques دکھاتا ہے۔ اور fraud کو روکنے میں مدد دیتا ہے۔ ہر ایک کو develop کریں۔ مثلاً: یہ cash book کو up to date کرتا ہے، because standing orders اور bank charges پہلے bank statement پر نظر آتے ہیں۔ پھر trader کو advice دے کر ختم کریں۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا اصل question ہے۔ Numan کو monthly bank reconciliation کے دو benefits Explain کریں، اور اسے advise کریں کہ جاری رکھے یا نہیں۔ پانچ marks۔ Benefit one: یہ Numan کی cash book کو up to date رکھتا ہے۔ اسے bank statement سے ملانے پر standing orders، direct debits اور bank charges جیسی items نظر آتی ہیں جو اس نے ابھی record نہیں کیں۔ Benefit two: یہ اسے errors ڈھونڈنے میں مدد دیتا ہے، چاہے اس کی اپنی cash book میں ہوں یا bank کی، تاکہ جلدی correct ہوں اور اس کا balance درست رہے۔ Advice: Numan کو ہر مہینے اسے تیار کرتے رہنا چاہیے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی یہ کہنا ہے کہ reconciliation bank تیار کرتا ہے۔ Business اسے اپنی cash book اور bank statement سے تیار کرتا ہے۔ ایک اور غلطی، statement بنانے کا طریقہ بیان کرنا ہے جبکہ question کیوں پوچھ رہا ہے۔ Benefits دیں، steps نہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Leila کو ایک benefit وجہ کے ساتھ Explain کریں، اور اسے advise کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ ایک اچھا جواب: یہ fraud کو روکنے میں مدد دیتا ہے، because bank statement ایک independent record ہے۔ Leila کی اجازت کے بغیر کوئی بھی payment فرق کے طور پر نظر آئے گی۔ تو اسے ہر مہینے یہ کرتے رہنا چاہیے۔ یاد رکھیں: benefit کا نام لیں، because سے develop کریں، اور واضح advice پر ختم کریں۔ اب practice questions کریں۔

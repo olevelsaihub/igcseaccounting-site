@@ -1,0 +1,11 @@
+Idea۔ آپ کا خاندان شاید فون کا bill یا gym کی fee بغیر cash دیے سیدھا bank account سے ادا کرتا ہے۔ Banks payment کے کئی طریقے دیتے ہیں، اور ہر ایک کا اپنا نام ہے۔ Standing order payer سیٹ کرتا ہے، جو bank کو کہتا ہے کہ مقررہ وقفوں پر ایک fixed amount ادا کرے۔ Direct debit payee وصول کرتا ہے، یعنی جس business کو payment ہو رہی ہے، اور amount بدل سکتی ہے۔ Credit transfer وہ رقم ہے جو کوئی اور شخص سیدھا business کے account میں بھیجتا ہے۔ Dishonoured cheque وہ ہے جسے bank ادا کرنے سے انکار کر دے، مثلاً account میں کافی پیسے نہ ہونے کی وجہ سے۔ دو terms timing کے بارے میں ہیں۔ Unpresented cheque cash book میں ہے، مگر bank نے ابھی ادا نہیں کیا۔ Outstanding lodgement وہ رقم ہے جو جمع ہوئی اور record ہوئی، مگر ابھی bank statement پر نہیں آئی۔
+
+Method۔ کسی term کو define کرنے کے لیے اس کی key features دیں۔ Payment method کے لیے بتائیں کہ کون شروع کرتا ہے، اور amount fixed ہے یا بدل سکتی ہے۔ Timing term کے لیے بتائیں کہ cash book میں کیا ہے اور bank نے ابھی کیا نہیں کیا۔ Bank statement bank کی طرف سے لکھا جاتا ہے۔ Credit balance کا مطلب ہے کہ bank، business کا مقروض ہے: account میں پیسے ہیں۔ Debit balance کا مطلب overdraft ہے۔
+
+Worked Example۔ یہ نومبر دو ہزار تئیس کا اصل question ہے۔ State two characteristics of a direct debit۔ دو marks۔ Feature ایک: ادا کی گئی amount ہر بار بدل سکتی ہے۔ Standing order سے یہی بڑا فرق ہے۔ Feature دو: payment payee شروع کرتا ہے، یعنی پیسے وصول کرنے والا business، payer نہیں۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی direct debit کو payer کی مقرر کی ہوئی fixed amount بتانا ہے۔ وہ standing order ہے۔ ایک اور غلطی، bank statement پر credit balance کو overdraft سمجھنا ہے۔ Statement پر credit کا مطلب bank میں پیسے ہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ہر case میں bank term کا نام لیں۔ رک کر فیصلہ کریں۔
+
+Answer۔ ایک: Zara شروع کرتی ہے اور amount fixed ہے: standing order۔ دو: payee بدلتی ہوئی amount وصول کرتا ہے: direct debit۔ تین: Zara نے record کیا، bank نے ابھی ادا نہیں کیا: unpresented cheque۔ یاد رکھیں: ہر term کے لیے بتائیں کہ کون شروع کرتا ہے، fixed ہے یا نہیں، اور bank نے کیا کیا یا نہیں کیا۔ اب practice questions کریں۔

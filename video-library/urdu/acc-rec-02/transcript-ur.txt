@@ -1,0 +1,11 @@
+Idea۔ استاد پوچھے کہ آپ کو کیسے پتا ہے، تو آپ ثبوت دکھاتے ہیں۔ Accountants کو بھی ثبوت چاہیے۔ کسی transaction کے پیچھے اصل کاغذ اس کا source document ہے۔ Credit sales اور purchases کا ثبوت invoices ہیں۔ واپس کیے گئے goods کا ثبوت credit note ہے۔ پیسے کا معاملہ مختلف ہے۔ ہم جو cheque لکھیں، اس کا ثبوت counterfoil ہے۔ Cash کی payment یا receipt کا ثبوت receipt ہے۔ Credit transfers، interest اور bank charges کا ثبوت bank statement ہے۔ چھوٹے cash خرچ کا ثبوت petty cash voucher ہے۔
+
+Method۔ پہلا step: یہ sale ہے، purchase ہے، return ہے، یا پیسے کا آنا جانا؟ دوسرا step: یہ credit پر ہے، یا cash یا bank سے؟ تیسرا step: وہ document بتائیں جو خود business کے پاس ہوگا۔ Book بھی پوچھی جائے تو اسے الگ match کریں: credit goods کے لیے day books، پیسے کے لیے cash book، اور باقی کے لیے journal۔ Credit پر non-current asset کا purchase invoice ہوتا ہے، مگر وہ journal میں جاتا ہے۔
+
+Worked Example۔ یہ نومبر دو ہزار پچیس کا real question ہے۔ ہمیں ہر transaction کا source document State کرنا ہے۔ پہلا ہمارے لیے ہو چکا ہے: credit پر sale کا sales invoice ہے۔ باقی یہ ہیں: credit transfer received، supplier کو return، credit پر خریدا گیا asset، bank interest، اور ذاتی استعمال کا cheque۔ پانچ marks۔ Credit transfer سے receipt سیدھی bank میں جاتی ہے۔ Customer remittance advice بھیجتا ہے، اور bank statement اسے دکھاتا ہے۔ Credit supplier کو return: supplier ہمیں credit note بھیجتا ہے۔ Credit پر non-current asset: supplier کا invoice، جو ہمارے لیے purchase invoice ہے۔ Bank interest: رقم صرف bank کو معلوم ہے، اس لیے bank statement۔ ذاتی استعمال کا cheque: ہم cheque counterfoil رکھتے ہیں۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی غلط طرف سے جواب دینا ہے۔ جب business goods خریدتا ہے، تو اس کا document purchase invoice ہے، sales invoice نہیں۔ ایک اور غلطی cash sale کے لیے invoice لکھنا ہے۔ Invoices credit کے لیے ہیں۔ Cash sale کا ثبوت receipt یا till roll ہے۔
+
+Your Turn۔ اب آپ کریں۔ Noor کے چاروں transactions کا source document State کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ ایک: credit پر خریدے گئے goods، اس لیے purchase invoice۔ دو: Noor اپنے customer کو credit note بھیجتی ہے، اور اس کی copy رکھتی ہے۔ تین: اپنا charge صرف bank کو معلوم ہے، اس لیے bank statement۔ چار: چھوٹا cash خرچ، اس لیے petty cash voucher۔ یاد رکھیں: کیا ہوا، credit یا پیسہ، پھر وہ document جو business کے پاس ہوتا ہے۔ اب practice questions کریں۔

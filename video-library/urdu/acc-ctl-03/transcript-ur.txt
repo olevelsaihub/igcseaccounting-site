@@ -1,0 +1,11 @@
+Idea۔ ایک teacher school trip کے پیسے جمع کرتی ہے۔ وہ ایک list رکھتی ہے کہ ہر student کے ذمے کیا باقی ہے۔ وہ الگ sheet پر ایک running total بھی رکھتی ہے۔ list کا جمع اس total کے برابر ہو، تو اسے پتا چل جاتا ہے کہ list ٹھیک ہے۔ Accounting میں control account یہی کام کرتا ہے۔ یہ ایک summary account ہے جو تمام customer accounts، یا تمام supplier accounts کے totals ایک جگہ رکھتا ہے۔ یہ books of prime entry کے totals سے لکھا جاتا ہے، جیسے sales day book اور cash book، customer accounts سے نہیں۔ اس لیے یہ ایک independent check ہے۔
+
+Method۔ پہلے اہم benefits سیکھیں۔ یہ ledger کی arithmetic check کرتا ہے۔ یہ financial statements کے لیے تیار total دیتا ہے۔ یہ fraud کو روکتا ہے۔ اور errors جلدی ڈھونڈنے میں مدد دیتا ہے۔ پھر ہر benefit کو because یا so that کے ساتھ develop کریں۔ Fraud کے لیے وجہ بتائیں: control account کوئی اور شخص رکھتا ہے، اس لیے جھوٹی entry سے totals مختلف ہو جائیں گے۔ آخر میں، نام لیے گئے trader کو judgement یا advice کے ساتھ ختم کریں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس کا اصل question ہے۔ Beth کا خیال ہے کہ اس کا control account بہت وقت لیتا ہے۔ Beth کو اسے رکھنے کے benefits Explain کریں۔ پانچ marks۔ Benefit one: یہ receivables ledger کی arithmetic check کرتا ہے۔ اس کے balance کا موازنہ تمام customer balances کے total سے ہوتا ہے۔ اگر agree ہوں، تو Beth جان لیتی ہے کہ ledger صحیح جمع ہوا۔ Benefit two: یہ fraud کو روکتا ہے۔ اسے ledger clerk کے علاوہ کوئی اور رکھتا ہے، اس لیے customer کے account میں کوئی بے ایمانی والی تبدیلی، فرق پیدا کرے گی جو نظر میں آ جائے گا۔ Conclusion: benefits وقت کے قابل ہیں، اس لیے Beth کو control account رکھنا چاہیے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی یہ بیان کرنا ہے کہ control account میں کیا جاتا ہے۔ question یہ پوچھتا ہے کہ اسے کیوں رکھا جاتا ہے۔ ایک اور غلطی یہ کہنا ہے کہ یہ ثابت کرتا ہے کہ ہر entry درست ہے۔ یہ غلط customer کے account میں posting کو ظاہر نہیں کر سکتا۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Sami کو ایک benefit وجہ کے ساتھ Explain کریں، اور اسے اپنی advice دیں۔ یہاں رک کر حل کریں۔
+
+Answer۔ ایک اچھا جواب: یہ trade payables کا تیار total دیتا ہے، اس لیے Sami تین سو accounts جمع کیے بغیر اپنا trial balance اور statement of financial position جلدی بنا سکتا ہے۔ تو اسے یہ رکھنا چاہیے۔ یاد رکھیں: benefit کا نام لیں، because سے develop کریں، اور advice پر ختم کریں۔ اب practice questions کریں۔
