@@ -1,5 +1,5 @@
-import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=b4ea637e20';
-import { checkWrittenAnswer } from './written-response-core.mjs?v=b4ea637e20';
+import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=56a141d5af';
+import { checkWrittenAnswer } from './written-response-core.mjs?v=56a141d5af';
 
 const storageKey = 'igcseaccounting-practice-results-v1';
 const markingApi = '/igcseaccounting/';
